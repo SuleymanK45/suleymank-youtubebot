@@ -172,4 +172,4 @@ message.send(taki)
  
          });
 
-client.login("NzM1NTM5MDI4NzI3ODI0NDI0.XxhuGg.sT6B1lZu4pA6aRHNRdMW69gzEU0")
+client.login("")
